@@ -1,1 +1,1 @@
-<meta content='0; url=../renderer' http-equiv='refresh'>
+<meta content='0; url=renderer' http-equiv='refresh'>
