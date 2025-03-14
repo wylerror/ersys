@@ -1,0 +1,34 @@
+@font-face
+{
+    font-family: Cascadia Code;
+    src: url(fonts/cascadiacode.ttf);
+}
+*
+{
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-family: Cascadia Code;
+}
+button
+{
+    background: green;
+    height: 50px;
+    margin-top: 20px;
+    width: 150px;
+}
+    button:hover
+    {
+        width: 300px;
+    }
+div
+{
+    text-align: center;
+}
+input
+{
+    background: green;
+    height: 25px;
+    margin-top: 10px;
+    width: 150px;
+}
